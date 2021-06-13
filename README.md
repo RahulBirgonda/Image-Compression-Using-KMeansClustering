@@ -1,1 +1,1 @@
-# Image-Compression-Using-KMeansClustering
+#Image-Compression
